@@ -1,0 +1,20 @@
+{
+  "logo": "./vite.png",
+  "features": [
+    {
+      "code": "Vite",
+      "explain": "查询 Vite 文档",
+      "cmds": [
+        "Vite"
+      ]
+    },
+    {
+      "code": "Vite Doc Setting",
+      "explain": "设置 Vite 文档语言、打开方式等",
+      "cmds": [
+        "Vite Doc Setting"
+      ]
+    }
+  ],
+  "preload": "./preload.js"
+}
